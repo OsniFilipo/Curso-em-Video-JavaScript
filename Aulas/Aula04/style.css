@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=Righteous&family=Rowdies&family=Sarala:wght@400;700&display=swap" rel="stylesheet');
+
+# {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+html {
+
+    width: 100vw;
+    height: 100vh;
+    font-size: 62.5%;
+
+}
+
+body {
+
+    font-size: 100%;
+    background: linear-gradient(243.18deg, #6cf52d 3.95%, #4a63a8 100%);
+    background-position: center center;
+    background-size: cover;
+    background-position-y: 0px;
+    
+}
+
+.cont-title {
+
+    font-family: 'Rowdies', cursive;
+    color: #C3BFF8;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+
+.cont-description {
+
+    font-family: 'Rowdies', cursive;
+    color: #C3BFF8;
+    font-weight: 400;
+    font-size: 16px;
+
+}
