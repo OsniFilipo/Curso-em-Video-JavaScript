@@ -30,8 +30,13 @@
 
     <script>
 
-        var nome = window.prompt('Qual é o seu nome?'); // Vai perguntar o nome ...
-        window.alert('É um grande prazer em te conhecer, '  + nome); //concatenação
+        var n1 = Number.parseFloat(window.prompt('Digite um número')); // traformou uma  string em um number real
+        var n2 = Number(window.prompt('Digite outro número')); // number só ele analisado se é uma string em um number
+        var s = n1 + n2 ;
+        window.alert('A somo dos valores é ' + String(s)); //concatenação
+        // (number + number) para adição 
+        // (string + string) para concatenação
+        // (number > string) convertação posso usar o String(n); ou se usar o n.toString();
 
     </script>
 
