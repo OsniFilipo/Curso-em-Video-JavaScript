@@ -1,92 +1,84 @@
-<img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2021/08/19161229/ide-javascript.png">
+<img src="https://marquesfernandes.com/wp-content/uploads/2020/01/1555172.jpg">
 
-# 🖥️ <a href="https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=8"><i>Aula pratica</i></a><span>
+# 🖥️ <a href="https://www.youtube.com/watch?v=Vbabsye7mWo&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=8"><i>Variáveis e Tipos Primitivos</i></a><span>
 
-- O código vai ser usado  ``HTML`` , ``CSS`` e ``JS`` .
-- O ``ex001.html`` vai ser usado um arquivo unico que mescla as três linguaguem 
-- Arquivos ``ex001,1.html`` é o mesmo programa ``ex001.html``, a diferencia é que um só tem um arquivo e o outro separa cada tipo estrutura . 
+##  <a href="https://youtu.be/Vbabsye7mWo?t=185"><i>Comentário.</i></a><span>
 
-## ⌨️ Mão na massa🖱️
-
--  <a href="https://youtu.be/OmmJBfcMJA8?t=357"><i>Usando o ! o programa faz a estrutura basica do site.</i></a><span>
+- O comentários usado  o  ``HTML``.
 
 ```
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+<!--  -->
 
 ```
 
--  <a href="https://youtu.be/OmmJBfcMJA8?t=431"><i>Alterar o idioma par portugues.</i></a><span>
+- O comentários usado  o ``CSS``.
 
 ```
 
-<html lang="pt-Br">
+/* */
 
 ```
 
-- <a href="https://youtu.be/OmmJBfcMJA8?t=507"><i>Para mudar o Titulo.</i></a><span>
+-  <a href="https://youtu.be/Vbabsye7mWo?t=208"><i>O comentários usado  o ``JavaScript`` são dois.</i></a><span>
 
 ```
 
-<title>Meu Primero Programa</title>
-
-```
-- <a href="https://youtu.be/OmmJBfcMJA8?t=565"><i>Como tirar a maldição de uma nova linguagem.</i></a><span>
-
-- <a href="https://youtu.be/OmmJBfcMJA8?t=620"><i>O Titulo do Olá, Mundo!</i></a><span>
+//
 
 ```
 
-<h1>Olá, Mundo!</h1>
+ou 
 
 ```
 
-- <a href="https://youtu.be/OmmJBfcMJA8?t=663"><i>Como ter um parágrafo.</i></a><span>
+/* */
 
 ```
 
-<p>Já me Livrei da maldição</p>
+ <a href="https://youtu.be/Vbabsye7mWo?t=232"><i>Diferencias das dois tipo de comentários.</i></a><span>
+
+## 〽️ <a href="https://youtu.be/Vbabsye7mWo?t=450"><i>Variável.</i></a><span>
+
+-  Uma variável é uma área de memória, associada a um nome, que pode armazenar valores de um determinado tipo. Um tipo de dado define um conjunto de valores e um conjunto de operações. Java é uma linguagem com rigidez de tipos (em inglês strongly typed).
+
+- <a href="https://youtu.be/Vbabsye7mWo?t=854"><i>As aspas pode ser usar em JavaScript.</i></a><span>
 
 ```
-- <a href="https://youtu.be/OmmJBfcMJA8?t=683"><i>Criar um estilo ``CSS``  </i></a><span>
+"" , '' e ``
 
 ```
 
- <style>
+## ❗ <a href="https://youtu.be/Vbabsye7mWo?t=893"><i>Identificadores.</i></a><span>
 
-        body {
+<a href="https://youtu.be/Vbabsye7mWo?t=896"><i>Regras.</i></a><span>
 
-            background-color: rgb(70, 70, 247);
-            color: rgb(255, 255, 255);
-            font: normal 20pt Arial;
+![Resume cv](/Imagens/01.png)
 
-        }
+✅ <a href="https://youtu.be/Vbabsye7mWo?t=1022"><i>Usando o Node.js</i></a><span>
 
- </style>
+❌ <a href="https://youtu.be/Vbabsye7mWo?t=1201"><i>Erro do terminal deixar o lendo o pc. </i></a><span>
+
+✔️ <a href="https://youtu.be/Vbabsye7mWo?t=1022"><i>Dicas.</i></a><span>
+
+![Resume cv](/Imagens/02.png)
+
+## <a href="https://youtu.be/Vbabsye7mWo?t=1450"><i>Tipo Primitivos</i></a><span> ❓
+
+![Resume cv](/Imagens/03.png)
+
+- <a href="https://youtu.be/Vbabsye7mWo?t=1468"><i>Tipo ``Number``</i></a><span>
+-- <a href="https://youtu.be/Vbabsye7mWo?t=1569"><i>Dois valores internos muito importantes</i></a><span>
+- <a href="https://youtu.be/Vbabsye7mWo?t=1509"><i>Tipo ``String``</i></a><span>
+- <a href="https://youtu.be/Vbabsye7mWo?t=1541"><i>Tipo ``Boolean``</i></a><span>
+- <a href="https://youtu.be/Vbabsye7mWo?t=1588"><i>Tipo ``Null``</i></a><span>
+- <a href="https://youtu.be/Vbabsye7mWo?t=1590"><i>Tipo ``Undefined``</i></a><span>
+- <a href="https://youtu.be/Vbabsye7mWo?t=1595"><i>Tipo ``Object``</i></a><span>
+-- <a href="https://youtu.be/Vbabsye7mWo?t=1604"><i>Tipo ``Array``</i></a><span>
+- <a href="https://youtu.be/Vbabsye7mWo?t=1615"><i>Tipo ``Function``</i></a><span>
+
+![Resume cv](/Imagens/04.png)
+
+ <a href="https://youtu.be/Vbabsye7mWo?t=1648"><i>Typeof usando no terminal</i></a><span> ❓
  
- ```
- 
-- <a href="https://youtu.be/OmmJBfcMJA8?t=861"><i>Agora vamos usar o JavaScript ``Js``.</i></a><span>
-
-```
-
-<script>
-
-        window.alert('Primeiro alerta de mensagem');
-        window.confirm('Está gostando de Js');
-        window.prompt('Qual é o seu nome?')
-
- </script>
- 
- ```
+ ![Resume cv](/Imagens/05.png)
