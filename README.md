@@ -3,4 +3,4 @@
 ## 🤖 Curso de JavaScript  <a href="https://www.cursoemvideo.com/curso/javascript/"><i>( Curso em Vídeo )</i></a>
 
 - Os códigos são feito junto com as aulas.
-- os projetos estão é mostrar e anotar o que faço nas aula.
+- Os projetos estão é mostrar e anotar o que faço nas aula.
