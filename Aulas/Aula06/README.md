@@ -7,12 +7,27 @@
 ## <a href="https://github.com/OsniFilipo/Curso-em-Video-JavaScript/tree/main/Aulas/Aula04"><i>Conteúdo da aula 04</i></a><span>
 
 ```
+  
 <script>
 
         window.prompt('Qual é o seu nome?')
 
  </script>
+  
 
 ```
 
 Somente usando o código de acima não é armazenado, para ele guarda precisa declara um variável 
+
+O igual ``=`` é Recebe, quando falamos em JavaScrit
+        
+```
+  
+<script>
+
+        window.prompt('Qual é o seu nome?')
+
+ </script>
+  
+
+```
