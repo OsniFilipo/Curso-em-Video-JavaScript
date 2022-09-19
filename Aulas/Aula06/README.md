@@ -65,7 +65,7 @@ Fazendo como o ex abaixo vai dar um erro.
   
 ```
 
-<a href="https://youtu.be/OJgu_KCCUSY?t=817"><i>Exercício 4 + 2 = o resuldado vai dar 42</i></a><span>
+<a href="https://youtu.be/OJgu_KCCUSY?t=817"><i>Exemplo 4 + 2 = o resuldado vai dar 42</i></a><span>
 
 ```
   
@@ -183,4 +183,57 @@ Jeito errado
 
     `O aluno ${nome} com ${idade} anos tirou a nota ${nota}`
 
+```
+
+## <a href="https://youtu.be/OJgu_KCCUSY?t=1597"><i>Template Strigns no ex03.</i></a><span>
+  
+```
+
+        var n1 = Number.parseFloat(window.prompt('Digite um número'));
+        var n2 = Number(window.prompt('Digite outro número'));
+        var s = n1 + n2 ;
+        window.alert(`A Soma entre ${n1} e ${n2} é igual a ${s}`);
+
+```
+  
+
+## <a href="https://youtu.be/OJgu_KCCUSY?t=1673"><i>Formatados de Strigns.</i></a><span>
+  
+Quantos caracteres a string tem .
+  
+```
+
+    s.length
+
+```
+  
+Tudo para 'MAIÚSCULAS' .
+  
+```
+
+    s.toUpperCase()
+
+```
+  
+Tudo para 'minúsculas' .
+  
+```
+
+    s.toLowerCase()
+
+```
+  
+![Resume cv](/Imagens/08.png)
+  
+## <a href="https://youtu.be/OJgu_KCCUSY?t=1730"><i>Exercício 4.</i></a><span>
+  
+```
+  
+<Script>
+
+        var nome = window.prompt('Qual é o seu nome?')
+        document.write(`Seu nome tem ${nome.length} letras.` )
+
+</Script>
+  
 ```
