@@ -226,6 +226,8 @@ Tudo para 'minúsculas' .
 ![Resume cv](/Imagens/08.png)
   
 ## <a href="https://youtu.be/OJgu_KCCUSY?t=1730"><i>Exercício 4.</i></a><span>
+
+Começo do projeto.
   
 ```
   
@@ -235,5 +237,28 @@ Tudo para 'minúsculas' .
         document.write(`Seu nome tem ${nome.length} letras.` )
 
 </Script>
+  
+```
+
+No final do projeto.
+
+```
+
+    <Script>
+
+        var nome = window.prompt('Qual é o seu nome?')
+        document.write(`Olá, ${nome}! Seu nome tem ${nome.length} letras.<br/>` )
+        document.write(`Seu nome em maiúsculas é ${nome.toUpperCase()}<br/>`)
+        document.write(`Seu nome em minúsculas é ${nome.toLowerCase()}<br/>`)
+
+    </Script>
+
+```
+
+## <a href="https://youtu.be/OJgu_KCCUSY?t=1955"><i>Break row = quebre para a linha de baixo</i></a><span>
+
+```
+  
+    <br/>
   
 ```
