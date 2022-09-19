@@ -73,6 +73,7 @@ Fazendo como o ex abaixo vai dar um erro.
   
 ```
 
+  
 <a href="https://youtu.be/OJgu_KCCUSY?t=906"><i>O certo a fazer é assim :</i></a><span>
 
 ```
@@ -226,6 +227,8 @@ Tudo para 'minúsculas' .
 ![Resume cv](/Imagens/08.png)
   
 ## <a href="https://youtu.be/OJgu_KCCUSY?t=1730"><i>Exercício 4.</i></a><span>
+
+Começo do projeto.
   
 ```
   
@@ -235,5 +238,75 @@ Tudo para 'minúsculas' .
         document.write(`Seu nome tem ${nome.length} letras.` )
 
 </Script>
+  
+```
+
+No final do projeto.
+
+```
+
+    <Script>
+
+        var nome = window.prompt('Qual é o seu nome?')
+        document.write(`Olá, ${nome}! Seu nome tem ${nome.length} letras.<br/>` )
+        document.write(`Seu nome em maiúsculas é ${nome.toUpperCase()}<br/>`)
+        document.write(`Seu nome em minúsculas é ${nome.toLowerCase()}<br/>`)
+
+    </Script>
+
+```
+
+## <a href="https://youtu.be/OJgu_KCCUSY?t=1955"><i>Break row = quebre para a linha de baixo</i></a><span>
+
+```
+  
+    <br/>
+  
+```
+  
+## <a href="https://youtu.be/OJgu_KCCUSY?t=2039"><i>Formatados de números no Node.js .</i></a><span>
+  
+var n1 = 1543.5
+  
+
+```
+  
+   n1.toFixed(2)
+  
+```
+  
+Vai ficar 1545.50
+  
+<a href="https://youtu.be/OJgu_KCCUSY?t=2093"><i>Quando a formatação pode usar , precisa .</i></a><span>
+  
+```
+  
+   n1.toFixed(2).replace('.', ',')
+  
+```
+  
+<a href="https://youtu.be/OJgu_KCCUSY?t=2093"><i>Quando a formatação precisa por em real .</i></a><span>
+  
+```
+  
+   n1.toLocaleStrig('pt-Br', {style: 'currency', currency: 'BRL'})
+  
+```
+
+
+<a href="https://youtu.be/OJgu_KCCUSY?t=2093"><i>Quando a formatação precisa por em dolar .</i></a><span>
+  
+```
+  
+   n1.toLocaleStrig('pt-Br', {style: 'currency', currency: 'USD'})
+  
+```
+  
+
+<a href="https://youtu.be/OJgu_KCCUSY?t=2093"><i>Quando a formatação precisa por em eurol .</i></a><span>
+  
+```
+  
+   n1.toLocaleStrig('pt-Br', {style: 'currency', currency: 'EUR'})
   
 ```
