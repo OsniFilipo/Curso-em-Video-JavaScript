@@ -9,6 +9,8 @@
   
 ![Resume cv](/Imagens/11.png)
   
+<img src="https://i.morioh.com/2022/04/11/b88d93e7.webp" width="1028">
+
 <a href="https://youtu.be/hZG9ODUdxHo?t=503"><i>Cuidado operadores aritméticos.</i></a><span>
   
 ![Resume cv](/Imagens/12.png)
