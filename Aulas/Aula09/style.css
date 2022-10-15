@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=Righteous&family=Rowdies&family=Sarala:wght@400;700&display=swap" rel="stylesheet');
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+html {
+
+    width: 100vw;
+    height: 100vh;
+    font-size: 62.5%;
+
+}
+
+body {
+
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #16324B 16.62%, #0E8DB5 85.61%);
+    color: white;
+    font: normal 18px arial;
+    
+}
